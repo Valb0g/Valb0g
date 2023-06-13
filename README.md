@@ -13,7 +13,7 @@ I love coding, video games, my family, walking, watching films and relaxing in n
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 ![NodeJS](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=Node)
-![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=Express)
+![Express](https://img.shields.io/badge/-Mobx-090909?style=for-the-badge&logo=Mobx)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
 
 ### 💬 Mail me: vllbgv@gmail.com
