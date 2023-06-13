@@ -1,7 +1,7 @@
 # Hi there!👋
 
 My name is Vladislav, I'm from Moscow!🏙 <br />
-I am a Fullstack JavaScript developer.👨‍💻 <br />
+I am a Frontend developer.👨‍💻 <br />
 I love coding, video games, my family, walking, watching films and relaxing in nature.🕺 <br />
 
 
