@@ -14,8 +14,8 @@ I love coding, video games, my family, walking, watching films and relaxing in n
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=sass)
 ![NodeJS](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=Node)
 ![Mobx](https://img.shields.io/badge/-Mobx-090909?style=for-the-badge&logo=Mobx)
+![ReactNative](https://img.shields.io/badge/-ReactNative-090909?style=for-the-badge&logo=ReactNative)
 ![API](https://img.shields.io/badge/-REST&#032;API-090909?style=for-the-badge)
-![ReactNative](https://img.shields.io/badge/-ReactNative&#032;ReactNative-090909?style=for-the-badge)
 
 ### 💬 Mail me: vllbgv@gmail.com
 ### ⚡️ Telegram: @valb0g https://t.me/valb0g
